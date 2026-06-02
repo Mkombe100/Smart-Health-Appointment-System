@@ -86,7 +86,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support and questions, email: support@smarthealthappointments.com
+For support and questions, email: muksinimkombe23@mzumbe.ac.tz
 
 Or open an issue on GitHub Issues page for bug reports and feature requests
 
