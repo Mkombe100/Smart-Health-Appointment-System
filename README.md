@@ -2,18 +2,6 @@
 
 A comprehensive healthcare appointment management system designed to streamline patient scheduling, doctor availability management, and appointment tracking for healthcare facilities.
 
-## Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Video Demo](#video-demo)
-- [Installation](#installation)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
 ## Features
 
 - Patient Management and registration
